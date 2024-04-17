@@ -1,0 +1,21 @@
+*{
+  padding: 5px;
+  margin: 0px;
+}
+
+.App{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center; 
+}
+
+.addBtn{
+  width: 30px;
+  height: 30px;
+  background-color: rgb(66, 140, 140);
+}
+
+.title{
+  font-family:Arial, Helvetica, sans-serif;
+}
